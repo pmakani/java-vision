@@ -1,5 +1,18 @@
 # Changelog
 
+### [1.99.1](https://www.github.com/googleapis/java-vision/compare/v1.99.0...v1.99.1) (2019-12-19)
+
+
+### Documentation
+
+* **regen:** updated docs from protoc update ([#26](https://www.github.com/googleapis/java-vision/issues/26)) ([f9132b6](https://www.github.com/googleapis/java-vision/commit/f9132b68596b5da42897042a12b70abb755080c0))
+
+
+### Dependencies
+
+* update dependency com.google.protobuf:protobuf-java to v3.11.1 ([#23](https://www.github.com/googleapis/java-vision/issues/23)) ([0716a27](https://www.github.com/googleapis/java-vision/commit/0716a27f6e1f4b728f1f439976c08bbc9da91320))
+* update gax.version to v1.51.0 ([#24](https://www.github.com/googleapis/java-vision/issues/24)) ([8445988](https://www.github.com/googleapis/java-vision/commit/8445988bf4d514c827326def363e53ac358bf176))
+
 ## [1.99.0](https://www.github.com/googleapis/java-vision/compare/v1.98.1...v1.99.0) (2019-11-14)
 
 
